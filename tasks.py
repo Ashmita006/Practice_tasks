@@ -160,7 +160,24 @@ def backup_directory(directory_path):
     except Exception as e:
         print(f"Error creating backup: {e}")
 
-if __name__ == "__main__":
+if __name__ == "__main__":                          
     directory_to_backup = input("Enter the directory path to back up: ").strip()
     backup_directory(directory_to_backup)
+
+############
+import datetime
+import os
+import shutil
+def create_backup(source_directory):
+    if not os.path.exists(source_directory):
+        print(f"Error: The directory '{source_directory} does not exist.")
+        #Gnerate a timestamped backup name
+        timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
+        backup_name = f"backup_{timestamp}"
+   #Create 
+    shutil.make_archive(backup_name, 'zip',directory_path)
+    print(f"backup created:{backup_name}.zip")
+# Example usage
+create_backup("./example_directory")
+
 

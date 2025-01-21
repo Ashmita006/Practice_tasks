@@ -1,0 +1,16 @@
+
+System Diagnostics Report
+==========================
+Current Working Directory: C:\Users\ashmi\OneDrive\Desktop\tasks
+
+Disk Usage:
+'du' is not recognized as an internal or external command,
+operable program or batch file.
+
+System Information:
+- System: Windows
+- Node Name: LAPTOP-O1UOQGAL
+- Release: 11
+- Version: 10.0.26100
+- Machine: AMD64
+- Processor: AMD64 Family 25 Model 68 Stepping 1, AuthenticAMD
