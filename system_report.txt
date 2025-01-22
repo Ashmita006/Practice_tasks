@@ -1,0 +1,72 @@
+Current Working Directory: C:\Users\ashmi\OneDrive\Desktop\tasks
+Disk Usage:
+  Total: 924.37 GB
+  Used: 96.83 GB
+  Free: 827.54 GB
+System Information:
+
+Host Name:                     LAPTOP-O1UOQGAL
+OS Name:                       Microsoft Windows 11 Home
+OS Version:                    10.0.26100 N/A Build 26100
+OS Manufacturer:               Microsoft Corporation
+OS Configuration:              Standalone Workstation
+OS Build Type:                 Multiprocessor Free
+Registered Owner:              ashmitashrestha613@gmail.com
+Registered Organization:       N/A
+Product ID:                    00342-22364-53701-AAOEM
+Original Install Date:         1/8/2025, 4:01:01 PM
+System Boot Time:              1/16/2025, 9:34:56 AM
+System Manufacturer:           ASUSTeK COMPUTER INC.
+System Model:                  ASUS TUF Gaming A15 FA506NCR_FA506NCR
+System Type:                   x64-based PC
+Processor(s):                  1 Processor(s) Installed.
+                               [01]: AMD64 Family 25 Model 68 Stepping 1 AuthenticAMD ~2523 Mhz
+BIOS Version:                  American Megatrends International, LLC. FA506NCR.300, 3/21/2024
+Windows Directory:             C:\WINDOWS
+System Directory:              C:\WINDOWS\system32
+Boot Device:                   \Device\HarddiskVolume1
+System Locale:                 en-us;English (United States)
+Input Locale:                  en-us;English (United States)
+Time Zone:                     (UTC+05:45) Kathmandu
+Total Physical Memory:         16,203 MB
+Available Physical Memory:     6,811 MB
+Virtual Memory: Max Size:      19,147 MB
+Virtual Memory: Available:     5,922 MB
+Virtual Memory: In Use:        13,225 MB
+Page File Location(s):         C:\pagefile.sys
+Domain:                        WORKGROUP
+Logon Server:                  \\LAPTOP-O1UOQGAL
+Hotfix(s):                     3 Hotfix(s) Installed.
+                               [01]: KB5049622
+                               [02]: KB5050009
+                               [03]: KB5050387
+Network Card(s):               2 NIC(s) Installed.
+                               [01]: Realtek PCIe GbE Family Controller
+                                     Connection Name: Ethernet
+                                     Status:          Media disconnected
+                               [02]: Realtek 8852BE Wireless LAN WiFi 6 PCI-E NIC
+                                     Connection Name: Wi-Fi
+                                     DHCP Enabled:    Yes
+                                     DHCP Server:     192.168.1.254
+                                     IP address(es)
+                                     [01]: 192.168.1.180
+                                     [02]: fe80::7c40:7810:d45e:3de1
+                                     [03]: 2400:1a00:b040:536c:6ca8:c86:b846:eb1c
+                                     [04]: 2400:1a00:b040:536c:d6e3:7130:6519:3220
+Virtualization-based security: Status: Running
+                               Required Security Properties:
+                               Available Security Properties:
+                                     Base Virtualization Support
+                                     Secure Boot
+                                     DMA Protection
+                                     UEFI Code Readonly
+                                     Mode Based Execution Control
+                               Services Configured:
+                                     Hypervisor enforced Code Integrity
+                               Services Running:
+                                     Hypervisor enforced Code Integrity
+                               App Control for Business policy: Enforced
+                               App Control for Business user mode policy: Audit
+                               Security Features Enabled:
+Hyper-V Requirements:          A hypervisor has been detected. Features required for Hyper-V will not be displayed.
+
